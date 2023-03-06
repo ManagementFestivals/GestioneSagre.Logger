@@ -9,12 +9,10 @@
 
     <PropertyGroup>
         <TargetFrameworks>net6.0</TargetFrameworks>
-        <Description>logger generic library</Description>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Description>gestione sagre logger library</Description>
         <RepositoryType>git</RepositoryType>
         <RepositoryUrl>https://github.com/ManagementFestivals/GestioneSagre.Logger</RepositoryUrl>
         <RepositoryBranch>main</RepositoryBranch>
-        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
