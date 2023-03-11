@@ -1,6 +1,6 @@
 ﻿namespace GestioneSagre.Logger.Service;
 
-internal class LoggerService : ILoggerService
+public class LoggerService : ILoggerService
 {
     private List<string> errorList = new();
 
